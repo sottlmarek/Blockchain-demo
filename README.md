@@ -18,4 +18,7 @@ Used libraries:
 * json
 * jsonpickle
 
-Author: Marek Šottl 
+## Other
+None distributed chains is part of this PoC. 
+
+Copyright © 2019 Marek Šottl.
